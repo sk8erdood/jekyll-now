@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>My first attempts at publishing using GitHub  </td>
+    <td>My first attempts at publishing using GitHub  Richie Carr</td>
     <td> Date:  </td>
     <td>07/09/16</td>
   </tr>
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge</td>
+    <td>No previous experience, very little knowledge.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully create the infrastructure so that my Google Doc template would publish.</td>
+    <td>To create my first account on Github and complete the Google Docs template to publish on my website.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>I think so,  I followed all the instructions and came to the point i should have done at the end.</td>
   </tr>
 </table>
 
@@ -41,21 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>Mainly by following all the steps i heard by listening and asking if i got stuck.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
-
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+    <td>Whenever i became unsure and tried to fix it myself, sometimes i would click the wrong things which made my problem worse, especially when there were so many options on screen which made the task quite difficult. Finding a strategy to memorise what the teacher tells us during the demonstration could help me remember what to do.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>Stop whatever i am doing if the teacher starts to demonstrate the next step so i don't miss out any steps because that could change everything if i missed something. This will help me work better alone and get on with the task quicker.</td>
   </tr>
 </table>
 
