@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: url(http://combiboilersleeds.com/images/stars/stars-8.jpg);
-  (0, 100%, 60%);
+	background: url(http://combiboilersleeds.com/images/stars/stars-8.jpg)
+hsl(0, 100%, 60%);
   font: 18px/1.4 $helvetica;
   color: $white;
 }
@@ -27,7 +27,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  border-radius: 3px;
+  border-radius: 10px;
   padding: 0 10px;
   width: 100%;
   background-color:rgba(255, 255, 255, 0.4);
