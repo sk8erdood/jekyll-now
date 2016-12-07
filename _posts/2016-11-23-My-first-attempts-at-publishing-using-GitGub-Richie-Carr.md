@@ -1,5 +1,5 @@
 ---
-title: My first attempts at publishing using GitGub Richie Carr
+title: 10 tips to loose belly fat fast
 layout: post
 author: richie.carr
 permalink: /my-first-attempts-at-publishing-using-gitgub-richie-carr/
@@ -47,7 +47,8 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Whenever i became unsure and tried to fix it myself, sometimes i would click the wrong things which made my problem worse, especially when there were so many options on screen which made the task quite difficult. Finding a strategy to memorise what the teacher tells us during the demonstration could help me remember what to do.</td>
+    <td>Whenever i became unsure and tried to fix it myself, sometimes i would click the wrong things which made my problem worse, especially when there were so many options on screen which made the task quite difficult. 
+Finding a strategy to memorise what the teacher tells us during the demonstration could help me remember what to do.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
