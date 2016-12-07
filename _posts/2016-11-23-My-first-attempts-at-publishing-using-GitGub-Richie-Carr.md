@@ -1,5 +1,5 @@
 ---
-title: 10 tips to loose belly fat fast
+title: 10 tips to lose belly fat fast
 layout: post
 author: richie.carr
 permalink: /my-first-attempts-at-publishing-using-gitgub-richie-carr/
