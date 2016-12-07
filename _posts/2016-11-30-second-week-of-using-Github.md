@@ -1,5 +1,5 @@
 ---
-title: second week of using Github
+title: I was robbed!!!
 layout: post
 author: richie.carr
 permalink: /second-week-of-using-github/
