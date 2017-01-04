@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Second week of using Github!</td>
+    <td>Third week of using Github!</td>
     <td> Date:  </td>
     <td>07/12/16</td>
   </tr>
