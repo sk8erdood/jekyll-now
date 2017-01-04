@@ -1,5 +1,5 @@
 ---
-title: Third week of using Github
+title: Click here to claim free gift
 layout: post
 author: richie.carr
 permalink: /third-week-of-using-github/
