@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Fifth week of using Github!</td>
+    <td>Experimenting with spreadsheets</td>
     <td> Date:  </td>
     <td>05/1/17
 </td>
@@ -24,12 +24,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Furthering what we did last week, continuing to make our blog look better by using things like shadows and borders and changing the colour/transparency.</td>
+    <td>To experiment with spreadsheets </td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes, partly, i achieved most of what I wanted but didn't manage to add on lots more, but was happy with the end results.</td>
+    <td>To a minimum, although I had no previous knowledge I only managed to successfully convert whatever number I entered into one with a currency sign before it automatically. </td>
   </tr>
 </table>
 
@@ -42,20 +42,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mostly by asking people in the class rather than the teacher because if he was busy and I waited, it became time consuming.</td>
+    <td>Experimenting and trying more than one way to achieve my aims and having to listen to the demonstrations and remember the steps to take.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>For the most part, I found it hardest when Github would take a little long to apply changes, as i would be left wondering if i had done the right thing and it was hard to know if I should move on. 
-</td>
+    <td>I needed to try and limit my names that I entered to the spreadsheets because if they were very long then there was a chance I would type it wrong later which spreadsheets would not recognise as the same thing.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>If i am sure that the coding is right but it's taking a while to be applied then i will move on to the next thing instead of waiting to see if it has worked or not that way i will save a lot of time.</td>
+    <td>If once the demonstration is finished but later during the lesson I notice the teacher adding more to what's on the board I will try and watch to see if I can gain anything.</td>
   </tr>
 </table>
 
