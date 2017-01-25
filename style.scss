@@ -21,7 +21,7 @@ body {
 	background: url(https://s-media-cache-ak0.pinimg.com/236x/13/bc/d2/13bcd2b4b973f9ea5bafe63793dfde32.jpg)
 hsl(0, 100%, 60%);
   font: 18px/1.4 $helvetica;
-  color: $white;
+  color: #000000;
 }
 
 .container {
@@ -36,7 +36,7 @@ hsl(0, 100%, 60%);
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: #000000;
   font-weight: bold;
 
   line-height: 1.7;
