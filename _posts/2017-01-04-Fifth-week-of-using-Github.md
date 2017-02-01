@@ -1,5 +1,5 @@
 ---
-title: Fifth week of using Github
+title: Real life ghost spotted!
 layout: post
 author: richie.carr
 permalink: /fifth-week-of-using-github/
