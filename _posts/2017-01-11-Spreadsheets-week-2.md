@@ -1,5 +1,5 @@
 ---
-title: Spreadsheets week 2
+title: 99% of you will fail this test
 layout: post
 author: richie.carr
 permalink: /spreadsheets-week-2/
