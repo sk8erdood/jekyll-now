@@ -1,5 +1,5 @@
 ---
-title: Spreadsheets week 3
+title: You won't believe his secret
 layout: post
 author: richie.carr
 permalink: /spreadsheets-week-3/
