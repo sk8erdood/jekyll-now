@@ -1,5 +1,5 @@
 ---
-title: Real life ghost spotted!
+title: Experimenting with spreadsheets
 layout: post
 author: richie.carr
 permalink: /fifth-week-of-using-github/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Experimenting with spreadsheets</td>
+    <td>Binary code</td>
     <td> Date:  </td>
-    <td>05/1/17
+    <td>01/03/17
 </td>
   </tr>
 </table>
@@ -24,12 +24,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To experiment with spreadsheets </td>
+    <td>To continue our language and incorporate binary,.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>To a minimum, although I had no previous knowledge I only managed to successfully convert whatever number I entered into one with a currency sign before it automatically. </td>
+    <td>No, I was behind from last lesson so this lesson, although successfully, had to finish my secret language.</td>
   </tr>
 </table>
 
@@ -42,19 +42,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Experimenting and trying more than one way to achieve my aims and having to listen to the demonstrations and remember the steps to take.</td>
+    <td>Experimenting and trying more than one way to achieve my aims, sometimes asking other people for help if I found something difficult.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I needed to try and limit my names that I entered to the spreadsheets because if they were very long then there was a chance I would type it wrong later which spreadsheets would not recognise as the same thing.</td>
+    <td>Now tasks are becoming very independent, there are no/less demonstrations to rely on for help.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>If once the demonstration is finished but later during the lesson I notice the teacher adding more to what's on the board I will try and watch to see if I can gain anything.</td>
+    <td>If I am behind either on the day or from last lessons, making sure I work fast to try and catch up and achieve what I need to from last lessons as well as current ones.</td>
   </tr>
 </table>
 
